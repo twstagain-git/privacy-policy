@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Privacy Policy</title>
+</head>
+<body>
+<h1>Privacy Policy</h1>
+<p>Last updated: November 11, 2026</p>
+
+<h2>Information We Access</h2>
+<p>
+This application uses Google OAuth 2.0 to access
+Google Sheets and associated data authorized by
+the user.
+</p>
+
+<h2>How We Use Information</h2>
+<p>
+Google Sheets data is processed by our privately
+operated n8n automation server to perform
+workflows requested by the user.
+</p>
+
+<h2>Storage and Security</h2>
+<p>
+OAuth credentials are stored in the n8n
+credential system. Data may be retained in
+workflow executions and connected services
+according to their configured settings.
+We use reasonable security measures to
+protect stored information.
+</p>
+
+<h2>Sharing</h2>
+<p>
+We do not sell Google user data or use it
+for advertising. Data may be processed by
+third-party services specifically configured
+by the user in an automation workflow.
+</p>
+
+<h2>Data Control</h2>
+<p>
+Users can revoke Google access through their
+Google Account security settings.
+Users may also request deletion of stored
+data by contacting us.
+</p>
+
+<h2>Google API Compliance</h2>
+<p>
+Our use and transfer of information received
+from Google APIs will adhere to the Google
+API Services User Data Policy, including
+the Limited Use requirements.
+</p>
+
+<h2>Contact</h2>
+<p>Email: m_bao@hotmail.com</p>
+</body>
+</html>
